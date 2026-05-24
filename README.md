@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **angelmichaelvasquez@gmail.com**
 
-- ⚡ Fun fact **My favorite animal are Owls!!**
+- ⚡ Fun fact **My favorite animals are Owls!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Musedle](https://github.com/AngelASC6/Musedle)
 
-- 👨‍💻 All of my projects are available at [angel-vasquez.vercel.app](angel-vasquez.vercel.app)
+- 👨‍💻 All of my projects are available at [www.angel-vasquez.vercel.app](angel-vasquez.vercel.app)
 
 - 📫 How to reach me **angelmichaelvasquez@gmail.com**
 

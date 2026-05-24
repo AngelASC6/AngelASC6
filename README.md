@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">Recent Graduate from Rochester Institute with a BS in Software Engineering</h3>
+<h3 align="center">Recent Graduate from Rochester Institute of Technology with a BS in Software Engineering</h3>
 
 - 🔭 I’m currently working on [Musedle](https://github.com/AngelASC6/Musedle)
 

@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Recent Graduate from Rochester Institute with a BS in Software Engineering</h3>
 
